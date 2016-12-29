@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Higher Or Lower</string>
+    <string name="action_settings">Settings</string>
+    <string name="button1">Guess it!</string>
+</resources>
